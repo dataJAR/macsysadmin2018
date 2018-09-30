@@ -44,12 +44,16 @@ https://www.sentinelone.com/blog/mojaves-security-hardening-user-protections-byp
 # Administration
 
 ## Process
+### How iOS Security Really Works
+https://developer.apple.com/videos/play/wwdc2016/705/
 
 ## Restoring
+
 ### Reset TCC Privacy
 https://www.macblog.org/post/reset-tcc-privacy/
 
 ## Assessing
+
 ### TCC round up
 https://carlashley.com/2018/09/28/tcc-round-up/
 
