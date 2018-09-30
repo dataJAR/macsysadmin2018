@@ -7,6 +7,8 @@ Links grouped as per the sections within the talk, hence some duplication.
 
 _to come_
 
+---
+
 # Docking about with Docker
 https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102070
 
@@ -16,6 +18,8 @@ https://www.docker.com/resources/what-container
 ## Getting started with BDSPy on Docker
 https://grahamgilbert.com/blog/2015/04/21/getting-started-with-bsdpy-on-docker/
 
+---
+
 # Mucking about with Mojave
 
 ## Prepare your institution for iOS 12 or macOS Mojave
@@ -23,6 +27,8 @@ https://support.apple.com/en-gb/HT209028
 
 ## Configuration Profile Reference (page 59)
 https://developer.apple.com/enterprise/documentation/Configuration-Profile-Reference.pdf
+
+---
 
 # Privacy Preferences Policy Control
 
