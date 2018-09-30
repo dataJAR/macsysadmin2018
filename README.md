@@ -1,4 +1,5 @@
 # macsysadmin2018
+
 Links from our macsysadmin talk "Mucking About With Mojave".
 
 Links grouped as per the sections within the talk, hence some duplication.
@@ -10,7 +11,6 @@ _to come_
 ---
 
 # Docking about with Docker
-https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102070
 
 ## What is a container?
 https://www.docker.com/resources/what-container
