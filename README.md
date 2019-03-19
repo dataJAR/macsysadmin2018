@@ -6,7 +6,7 @@ Links grouped as per the sections within the talk, hence some duplication.
 
 # Talk Video
 
-_to come_
+https://macmule.com/2018/10/07/mucking-about-with-mojave/#Resources
 
 ---
 
