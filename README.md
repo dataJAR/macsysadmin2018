@@ -75,7 +75,7 @@ https://developer.apple.com/enterprise/documentation/Configuration-Profile-Refer
 https://github.com/carlashley/tccprofile
 
 ### ProfileCreator
-https://github.com/erikberglund/ProfileCreator
+https://github.com/ProfileCreator/ProfileCreator
 
 ### PPPC-Utility
 https://github.com/jamf/PPPC-Utility
